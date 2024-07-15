@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-##Live Host Link
+## Live Host Link
 This game hosted in netlify app{Host Link}(https://vigneshmbalase-conways-gameof-life.netlify.app/). 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
